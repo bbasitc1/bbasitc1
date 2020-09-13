@@ -1,4 +1,4 @@
-### I am Abdul Basit and currently I am pursuing B.TECH in INFORMATION TECHNOLOGY 
+### Hi there 👋, I am Abdul Basit and currently I am pursuing B.TECH in INFORMATION TECHNOLOGY 
 
 - 🔭 I’m currently working on a Text editing android App. 
 - 🌱 I’m currently learning Android Development 
