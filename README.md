@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Abdul Basit and currently I am pursuing B.TECH in INFORMATION TECHNOLOGY 
 
-- 🔭 I’m currently working on a React Project. 
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on some Intermeidate Android Projects. 
+- 🔭 I’m currently working on a Java project. 
+- 🌱 I’m currently learning Spring framework. 
+- 👯 I’m looking to collaborate on some full stack java projects. 
 - 📫 How to reach me: basit.c1@gmail.com 
 - ⚡ Fun fact: I have a sweet tooth
 ### Connect with me:
